@@ -1,5 +1,5 @@
 // ============================================
-// Lab 06: Classy
+// Lab 7: Classy
 // ============================================
 // TODO: Import any necessary libraries (Scanner, Random, etc.)
 
