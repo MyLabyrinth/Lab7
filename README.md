@@ -34,7 +34,7 @@ Follow these steps for every lab carefully to access, complete, and submit your 
 
 ---
 
-## Lab 06 Tasks
+## Lab 7 Tasks
 
 ### `Classy`
 
